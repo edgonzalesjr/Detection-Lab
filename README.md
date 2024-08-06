@@ -41,7 +41,7 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Sysmon  
   - Splunk Universal Forwarder (Forwards Sysmon)  
 
-- Checking connectivity on hosts
+- Checking network connectivity on hosts
 <p align="center">
 <img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
