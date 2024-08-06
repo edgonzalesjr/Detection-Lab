@@ -17,7 +17,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-## Network Diagram
+## Outcome
 
 <b>Network Diagram</b>
 <p align="center">
