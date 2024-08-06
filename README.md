@@ -15,6 +15,25 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
+## Lab Information
+ - Domain Name: windomain.local
+ 
+## Lab Hosts
+ - Windows 2016 Domain Controller
+  - Default Server Configuration GPO  
+  - Default Windows Auditing policy GPO
+  - Sysmon  
+  - Splunk Universal Forwarder (Forwards Sysmony)
+ 
+ - Windows 10 Workstation
+  - Simulates employee workstation
+  - Sysmon  
+  - Splunk Universal Forwarder (Forwards Sysmon & osquery)
+  
+ - Ubuntu 22.04 LTS
+  - Splunk Enterprise
+
+
 ## Outcome
 
 <p align="center">
@@ -23,6 +42,6 @@ In this Detection Lab project was designed to create a controlled setting for si
 <b>Network Diagram</b>
 <br/>
 
-# Acknowledgements
-* [Splunk](https://www.splunk.com)
+## Acknowledgements
+- [Splunk](https://www.splunk.com)
   
