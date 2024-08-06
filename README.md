@@ -13,6 +13,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 ### Tools Used
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Lab Information
@@ -51,6 +52,11 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 
 - SIEM's log ingestion and analysis
+<p align="center">
+<img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+
+- Wireshark's network capture
 <p align="center">
 <img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
