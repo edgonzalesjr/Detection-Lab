@@ -25,14 +25,14 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Windows 2016 Domain Controller
   - Default Server Configuration GPO  
   - Default Windows Auditing policy GPO
-  * Sysmon  
-  * Splunk Universal Forwarder (Forwards Sysmony) 
- * Windows 10 Workstation
-  * Simulates employee workstation
-  * Sysmon  
-  * Splunk Universal Forwarder (Forwards Sysmon & osquery)  
- * Ubuntu 22.04 LTS
-  * Splunk Enterprise
+  - Sysmon  
+  - Splunk Universal Forwarder (Forwards Sysmony)
+- Windows 10 Workstation
+  - Simulates employee workstation
+  - Sysmon  
+  - Splunk Universal Forwarder (Forwards Sysmon & osquery)  
+- Ubuntu 22.04 LTS
+  - Splunk Enterprise
 
 ## Outcome
 
