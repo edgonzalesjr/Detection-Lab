@@ -28,6 +28,8 @@ In this Detection Lab project was designed to create a controlled setting for si
  
 ### Lab Hosts
 
+- Ubuntu 22.04 LTS
+  - Splunk Enterprise
 - Windows 2016 Domain Controller  
   - Default Domain Controllers Policy
   - Default Domain Policy
@@ -37,17 +39,24 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Simulates employee workstation
   - Sysmon  
   - Splunk Universal Forwarder (Forwards Sysmon)  
-- Ubuntu 22.04 LTS
-  - Splunk Enterprise
 
-- Checking connectivity in hosts
+- Checking connectivity on hosts
+<p align="center">
+<img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+
+- Generate traffic
+<p align="center">
+<img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+
+- SIEM's log ingestion and analysis
 <p align="center">
 <img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 
 ## Outcome
 - Talk about what you achieved, attach screenshots.
-
 
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
