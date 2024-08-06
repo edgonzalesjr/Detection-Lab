@@ -21,5 +21,6 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 <p align="center">
 <img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
-<p align="center"><b>Network Diagram</b>
+<br/>
+<b>Network Diagram</b>
 <br/>
