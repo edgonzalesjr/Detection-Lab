@@ -22,3 +22,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <b>Network Diagram</b>
 <br/>
+
+# Acknowledgements
+* [Splunk](https://www.splunk.com)
+* 
