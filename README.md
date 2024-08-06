@@ -28,9 +28,9 @@ In this Detection Lab project was designed to create a controlled setting for si
  
 ### Lab Hosts
 
-- Windows 2016 Domain Controller
-  - Default Server Configuration GPO  
-  - Default Windows Auditing policy GPO
+- Windows 2016 Domain Controller  
+  - Default Domain Controllers Policy
+  - Default Domain Policy
   - Sysmon  
   - Splunk Universal Forwarder (Forwards Sysmon)
 - Windows 10 Workstation
