@@ -22,6 +22,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <b>Network Diagram</b>
 <br/>
+
 - Domain Name: EdLabs.local
 - Network : 192.168.10.0/24
  
