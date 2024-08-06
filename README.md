@@ -17,14 +17,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 ## Lab Information
 
-- Domain Name: EdLabs.local
-- Network : 192.168.10.0/24
-
 <p align="center">
 <img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Network Diagram</b>
 <br/>
+- Domain Name: EdLabs.local
+- Network : 192.168.10.0/24
  
 ### Lab Hosts
 
