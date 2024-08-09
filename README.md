@@ -69,6 +69,15 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Created domain user accounts
   - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml)
 
+- Windows 10 Pro Eval workstation
+  - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml)
+  - Joined the Domain
+  - Domain user account logged-in
+  - Install and setup Atomic Red Team
+   - Performed Invoke-AtomicTest based on MITRE ATT&CK framework; 
+    - Persistence > Create account (T1136.001)
+    - Command and scripting interpreter > PowerShell (T1059.001)
+
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
