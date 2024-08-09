@@ -78,6 +78,9 @@ In this Detection Lab project was designed to create a controlled setting for si
      - Persistence > Create account (T1136.001)
      - Command and scripting interpreter > PowerShell (T1059.001)
 
+- Attack Machine
+  - Using Kali Linux, performed brute force attack using crowbar
+
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
