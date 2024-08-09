@@ -75,8 +75,8 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Domain user account logged-in
   - Install and setup Atomic Red Team
    - Performed Invoke-AtomicTest based on MITRE ATT&CK framework; 
-    - Persistence > Create account (T1136.001)
-    - Command and scripting interpreter > PowerShell (T1059.001)
+     - Persistence > Create account (T1136.001)
+     - Command and scripting interpreter > PowerShell (T1059.001)
 
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
