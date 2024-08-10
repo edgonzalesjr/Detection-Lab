@@ -69,7 +69,7 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Created domain user accounts
   - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml)
 
-- Windows 10 Pro Eval workstation
+- Windows 10 Pro Eval
   - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml)
   - Joined the Domain
   - Domain user account logged-in
