@@ -31,12 +31,12 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 - Ubuntu 22.04 LTS
   - Splunk Enterprise
-- Windows 2016 Domain Controller  
+- Windows 2022 Eval
   - Default Domain Controllers Policy
   - Default Domain Policy
   - Sysmon  
   - Splunk Universal Forwarder (Forwards Sysmon)
-- Windows 10 Workstation
+- Windows 10 Eval
   - Simulates employee workstation
   - Sysmon  
   - Splunk Universal Forwarder (Forwards Sysmon)  
