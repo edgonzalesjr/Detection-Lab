@@ -126,7 +126,7 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Using Kali Linux, performed brute force attack using crowbar
 
 - Disable services that are not needed, in this case the Remote Desktop feature.
-
+- Use long and complex password for Remote Desktop it is required in the environment.
 
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
