@@ -125,7 +125,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Attack Machine
   - Using Kali Linux, performed brute force attack using crowbar
 
-- Follow Company's Acceptable Use Policy on computers and network.
+- Follow Company's Acceptable Use Policy.
 - Disable services that are not needed, in this case the Remote Desktop feature.
 - Use long and complex password for Remote Desktop if it is required in the environment.
 - Implement Zero Trust architecture. Endpoints are verified each time when using any resources on the network.
