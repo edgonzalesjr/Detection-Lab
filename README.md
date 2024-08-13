@@ -76,7 +76,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine</b>
+<b>Attacker's machine failed attempt</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/sdEiePr.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Attacker's machine success attempt</b>
 <br/>
 
 - SIEM's log ingestion and analysis
