@@ -65,9 +65,9 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Talk about what you achieved, attach screenshots.
 
 - Windows Server 2022 Eval
-  - Installed and promoted to Domain Controller
+  - Installed, configured and promoted as Domain Controller
   - Created domain user accounts
-  - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml)
+  - Installed and applied custom configuration to Splunk (inputs.conf) and Sysmon (sysmonconfig.xml)
 
 - Windows 10 Pro Eval
   - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml)
