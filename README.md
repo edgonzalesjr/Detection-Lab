@@ -19,7 +19,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 ## Lab Information
 
 <p align="center">
-<img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/VUDviOE.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Network Diagram</b>
 <br/>
