@@ -31,7 +31,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 - Ubuntu 22.04 LTS
   - Splunk Enterprise
-- Windows 2022 Eval
+- Windows Server 2022 Eval
   - Default Domain Controller Policy
   - Default Active Directory Policy
   - Sysmon 
