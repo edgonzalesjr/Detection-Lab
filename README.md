@@ -87,7 +87,17 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 - SIEM's log ingestion and analysis
 <p align="center">
-<img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Splunk 4625 - Failed attempt</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/e9gRIKb.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+ <img src="https://imgur.com/Z0jkymB.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Splunk 4624 - Success attempt</b>
 <br/>
 
 - Wireshark's network capture
