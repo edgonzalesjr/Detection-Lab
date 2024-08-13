@@ -43,7 +43,9 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 - Checking network connectivity on hosts
 <p align="center">
-<img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/HDXm454.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Splunk Server IP Address and status is running</b>
 <br/>
 
 - Generate traffic
