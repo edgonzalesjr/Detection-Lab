@@ -48,6 +48,12 @@ In this Detection Lab project was designed to create a controlled setting for si
 <b>Splunk Server IP Address and status is running</b>
 <br/>
 
+<p align="center">
+<img src="https://imgur.com/dojFuld.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Splunk Server reachability</b>
+<br/>
+
 - Generate traffic
 <p align="center">
 <img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
