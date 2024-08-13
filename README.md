@@ -89,7 +89,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk 4625 - Failed attempt</b>
+<b>Splunk Event Code 4625 - Failed attempt</b>
 <br/>
 
 <p align="center">
@@ -97,7 +97,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
  <img src="https://imgur.com/Z0jkymB.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk 4624 - Success attempt</b>
+<b>Splunk Event Code 4624 - Success attempt</b>
 <br/>
 
 - Wireshark's network capture
@@ -138,7 +138,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Follow Company's Acceptable Use Policy.
 - Disable services that are not needed, in this case the Remote Desktop feature.
 - Use long and complex password for Remote Desktop if it is required in the environment.
-- Implement Zero Trust architecture. Endpoints are verified each time when using any resources on the network.
+- Implement Zero Trust architecture. Endpoints are verified each time when connecting to services and resources on the network.
 
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
