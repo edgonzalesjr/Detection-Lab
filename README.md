@@ -74,7 +74,9 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 - Generate traffic
 <p align="center">
-<img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Attacker's machine</b>
 <br/>
 
 - SIEM's log ingestion and analysis
