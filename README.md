@@ -66,6 +66,12 @@ In this Detection Lab project was designed to create a controlled setting for si
 <b>Windows Active Directory reachability</b>
 <br/>
 
+<p align="center">
+<img src="https://imgur.com/XsJS2FY.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Windows workstation's IP Address and reachability</b>
+<br/>
+
 - Generate traffic
 <p align="center">
 <img src="https://imgur.com/E8IGcV1.png" height="40%" width="40%" alt="Device Specification"/>
