@@ -125,6 +125,9 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Attack Machine
   - Using Kali Linux, performed brute force attack using crowbar
 
+- Disable services that are not needed, in this case the Remote Desktop feature.
+
+
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
