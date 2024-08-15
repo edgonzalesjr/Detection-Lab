@@ -117,7 +117,19 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <img src="https://imgur.com/qH6dgTv.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk on T1136.001, which a local account created and modified</b>
+<br/>
+<img src="https://imgur.com/2rxwYU5.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+ <br/>
+<img src="https://imgur.com/R7EEJrr.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+ <br/>
+<img src="https://imgur.com/2XE3vHA.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+ <br/>
+<img src="https://imgur.com/lhVp402.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Splunk on T1136.001, which a local account has been created and modified</b>
 <br/>
 
 - Wireshark's network capture
