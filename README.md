@@ -125,7 +125,15 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <img src="https://imgur.com/lhVp402.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk on T1136.001, which a local account has been created and modified</b>
+<b>Splunk on T1136.001. Which map back to MITRE ATT&CK framework, Persistenc>Create Local Account</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/VZ8TLS3.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/gMMiZfi.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Splunk on T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell</b>
 <br/>
 
 - Wireshark's network capture
