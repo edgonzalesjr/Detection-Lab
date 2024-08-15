@@ -110,7 +110,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/boxgZA0.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Analyze connectivity Duration between Client & Host. Noticed the duration tab, it takes 0.2 seconds on each succeeding attempts. Indicating a brute force attack.</b>
+<b>Analyze connectivity Duration between Client & Host. Noticed the duration tab, it takes 0.2 seconds on each succeeding attempts, which a clear indication of a brute force activity.</b>
 <br/>
 
 
