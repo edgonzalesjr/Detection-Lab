@@ -149,8 +149,6 @@ In this Detection Lab project was designed to create a controlled setting for si
 <b>Analyze connectivity Duration between Client & Host. Noticed the duration tab, it takes 0.2 seconds on each succeeding attempts, which a clear indication of a brute force activity.</b>
 <br/>
 
-
-
 ## Outcome
 - Talk about what you achieved, attach screenshots.
 
