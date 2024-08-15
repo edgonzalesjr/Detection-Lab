@@ -101,15 +101,23 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Event Code 4625 - Failed attempt</b>
+<b>Splunk Event Code 4625 - Failed RDP login attempt</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/e9gRIKb.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
- <img src="https://imgur.com/Z0jkymB.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/Z0jkymB.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Event Code 4624 - Success attempt</b>
+<b>Splunk Event Code 4624 - Successful RDP login attempt</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/kJGXoj4.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://imgur.com/qH6dgTv.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Splunk on T1136.001, which a local account created and modified</b>
 <br/>
 
 - Wireshark's network capture
