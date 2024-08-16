@@ -167,16 +167,17 @@ In this Detection Lab project was designed to create a controlled setting for si
      - Command and scripting interpreter > PowerShell (T1059.001)
 
 - Attack Machine
-  - Using Kali Linux, performed brute force attack using crowbar
+  - Using Kali Linux, performed brute force attack using crowbar.
 
-- Follow Company's Acceptable Use Policy.
-- Disable services that are not needed, in this case the Remote Desktop feature.
-- Use long and complex password for Remote Desktop if it is required in the environment.
-- Implement Zero Trust architecture. Endpoints are verified each time when connecting to services and resources on the network.
+- Should have set up safeguards
+  - Follow Company's Acceptable Use Policy.
+  - Disable services that are not needed, in this case the Remote Desktop feature.
+  - Use long and complex password for Remote Desktop if it is required in the environment.
+  - Implement Zero Trust architecture. Endpoints are verified each time when connecting to services and resources on the network.
 
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - Splunk Inputs.conf inspired from [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
-- Sysmon config from [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
+- Sysmon config inspired from [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
   
