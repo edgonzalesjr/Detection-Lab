@@ -96,7 +96,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <b>Windows workstation simulating the Atomic Red Team technique id T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell.</b>
 <br/>
-
+# <a id="extension"></a>
 - SIEM's log ingestion and analysis
 <p align="center">
 <img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
