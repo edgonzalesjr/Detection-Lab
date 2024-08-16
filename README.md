@@ -35,11 +35,11 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Default Domain Controller Policy
   - Default Active Directory Policy
   - Sysmon 
-  - Splunk Universal Forwarder (Forwards Sysmon)
+  - Splunk Universal Forwarder (Forwards Sysmon logs)
 - Windows 10 Eval
   - Simulates employee workstation
   - Sysmon  
-  - Splunk Universal Forwarder (Forwards Sysmon)  
+  - Splunk Universal Forwarder (Forwards Sysmon logs)  
 
 - Checking network connectivity on hosts
 <p align="center">
