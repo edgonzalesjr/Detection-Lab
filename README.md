@@ -101,7 +101,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Event Code 4625 - Failed RDP login attempt</b>
+<b>Splunk Event Code 4625. Failed RDP login attempt</b>
 <br/>
 
 <p align="center">
@@ -109,7 +109,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <img src="https://imgur.com/Z0jkymB.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Event Code 4624 - Successful RDP login attempt</b>
+<b>Splunk Event Code 4624. Successful RDP login attempt</b>
 <br/>
 
 <p align="center">
