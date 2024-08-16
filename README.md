@@ -174,6 +174,7 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Disable any unnecessary services, such as the Remote Desktop feature in this case.
   - Use a long and complex password for Remote Desktop if it is required in your environment.
   - Implement Zero Trust architecture. Endpoints are verified each time they connect to services and resources on the network.
+  - As time advances, so do the organization's security requirements. Ensure that the necessary security measures are implemented.
 
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
