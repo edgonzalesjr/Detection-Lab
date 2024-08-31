@@ -30,7 +30,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 ### Lab Hosts
 
 - Ubuntu 22.04 LTS
-  - Splunk Enterprise
+  - Splunk Enterprise Eval
 - Windows Server 2022 Eval
   - Default Domain Controller Policy
   - Default Active Directory Policy
