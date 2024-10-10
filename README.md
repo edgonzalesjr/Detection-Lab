@@ -150,7 +150,6 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 
 ## Outcome
-- Talk about what you achieved, attach screenshots.
 
 - Windows Server 2022 Eval
   - Installed, configured and promoted as Domain Controller
