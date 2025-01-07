@@ -88,7 +88,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/O5zdAEo.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows workstation simulating the Atomic Red Team technique id T1136.001. Which map back to MITRE ATT&CK framework, Persistenc>Create Local Account.</b>
+<b>Windows workstation simulating the Atomic Red Team technique id T1136.001. Which map back to MITRE ATT&CK framework, Persistence>Create Local Account.</b>
 <br/>
 
 <p align="center">
