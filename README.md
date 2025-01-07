@@ -180,3 +180,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - Splunk Inputs.conf inspired from [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
 - Sysmon config inspired from [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
+
+## Disclaimer
+
+This portfolio is intended for educational and ethical cybersecurity research purposes only. All projects were conducted in a controlled, personal laboratory environment. The author(s) strongly condemn any illegal or unethical use of the information or code presented here. Unauthorized access to any system is strictly forbidden. The author(s) assume no responsibility for any actions taken by third parties using this information.
