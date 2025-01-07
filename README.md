@@ -45,44 +45,44 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/HDXm454.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Server IP Address and status is running</b>
+<b>Splunk Server IP Address and status is running.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/dojFuld.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Server reachability</b>
+<b>Splunk Server reachability.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/GPotYqu.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows Active Directory IP Address</b>
+<b>Windows Active Directory IP Address.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/dyB5kNl.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows Active Directory reachability</b>
+<b>Windows Active Directory reachability.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/XsJS2FY.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows workstation's IP Address and reachability</b>
+<b>Windows workstation's IP Address and reachability.</b>
 <br/>
 
 - Generate traffic
 <p align="center">
 <img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine in a failed RDP login attempt</b>
+<b>Attacker's machine in a failed RDP login attempt.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/sdEiePr.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine in a successful RDP login attempt</b>
+<b>Attacker's machine in a successful RDP login attempt.</b>
 <br/>
 
 <p align="center">
@@ -101,7 +101,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Event Code 4625. Failed RDP login attempt</b>
+<b>Splunk Event Code 4625. Failed RDP login attempt.</b>
 <br/>
 
 <p align="center">
@@ -109,7 +109,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <img src="https://imgur.com/Z0jkymB.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Event Code 4624. Successful RDP login attempt</b>
+<b>Splunk Event Code 4624. Successful RDP login attempt.</b>
 <br/>
 
 <p align="center">
@@ -125,7 +125,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <img src="https://imgur.com/lhVp402.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk on T1136.001. Which map back to MITRE ATT&CK framework, Persistenc>Create Local Account</b>
+<b>Splunk on T1136.001. Which map back to MITRE ATT&CK framework, Persistence>Create Local Account.</b>
 <br/>
 
 <p align="center">
@@ -133,14 +133,14 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 <img src="https://imgur.com/gMMiZfi.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk on T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell</b>
+<b>Splunk on T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell.</b>
 <br/>
 
 - Wireshark's network capture
 <p align="center">
 <img src="https://imgur.com/40okXRH.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Imported the captured pcap file of RDP brute force activity to Wireshark</b>
+<b>Imported the captured pcap file of RDP brute force activity to Wireshark.</b>
 <br/>
 
 <p align="center">
