@@ -178,8 +178,8 @@ In this Detection Lab project was designed to create a controlled setting for si
 ## Acknowledgements
 - [Splunk](https://www.splunk.com)
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
-- Splunk Inputs.conf inspired from [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
-- Sysmon config inspired from [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
+- Splunk Inputs.conf inspired by [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
+- Sysmon config inspired by [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
 
 ## Disclaimer
 
