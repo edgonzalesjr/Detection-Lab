@@ -143,13 +143,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 - Wireshark capture of RDP login attempts on Windows 10 workstation
 <p align="center">
-<img src="https://imgur.com/40okXRH.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/1wfWwaP.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Imported the captured pcap file of RDP brute force activity to Wireshark.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/boxgZA0.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/f3d7yfr.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Analyze connectivity Duration between Client & Host. Noticed the duration tab, it takes 0.2 seconds on each succeeding attempts, which a clear indication of a brute force activity.</b>
 <br/>
