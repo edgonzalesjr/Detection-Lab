@@ -13,7 +13,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 ### Tools Used
 
 - Splunk Enterprise SIEM: For log ingestion, analysis and timeline filtering.
-- Ubuntu 22.04 LTS: Used to host the Splunk Enterprise SIEM.
+- Ubuntu Server: Use to host the Splunk Enterprise SIEM.
 - Windows Server 2022 Eval: Serve as an Active Directory.
 - Windows 10 Eval: End-user workstation.
 - Wireshark: Network analysis tool for capturing and examining network traffic from a .pcap file.
@@ -190,7 +190,7 @@ This project combines ideas and methods from various sources, such as the Splunk
  - [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
  - [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
  - [Splunk Enterprise](https://www.splunk.com/en_us/products/splunk-enterprise.html)
- - [Ubuntu 22.04 LTS](https://ubuntu.com/)
+ - [Ubuntu Server](https://ubuntu.com/download/server)
  - [Windows Server 2022 Eval](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
  - [Windows 10 Eval](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
  - [Kali Linux](https://www.kali.org/)
