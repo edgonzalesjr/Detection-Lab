@@ -13,7 +13,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 ### Tools Used
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+- Network analysis tools (such as Wireshark) for capturing and examining network traffic from a .pcap file.
 - Telemetry generation tools (Atomic Red Team) to create realistic network traffic and attack scenarios.
 - Penetration tool (Kali Linux) to perform RDP attack on a Windows machine.
 
