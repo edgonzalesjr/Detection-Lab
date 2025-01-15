@@ -40,7 +40,9 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Simulates employee workstation
   - Sysmon
   - Splunk Universal Forwarder (Forwards Sysmon logs)
-
+  - Wireshark
+- Kali Linux
+  - Simulates as attacker's machine
 
 - Checking network connectivity on hosts
 <p align="center">
@@ -152,22 +154,27 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 ## Outcome
 
+- Ubuntu 22.04 LTS
+  - Installed and configured Splunk Enterprise Eval.
+  - Performed basic Splunk search queries.
+
 - Windows Server 2022 Eval
-  - Installed, configured and promoted as Domain Controller
-  - Created domain user accounts
-  - Installed and applied custom configuration to Splunk (inputs.conf) and Sysmon (sysmonconfig.xml)
+  - Installed, configured and promoted as Domain Controller.
+  - Created domain user accounts.
+  - Installed and applied custom configuration to Splunk (inputs.conf) and Sysmon (sysmonconfig.xml).
 
 - Windows 10 Pro Eval
-  - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml)
-  - Joined the Domain
-  - Domain user account logged-in
-  - Install and setup Atomic Red Team
+  - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml).
+  - Joined the Domain.
+  - Domain user account logged-in.
+  - Installed and run Wireshark to capture attempted RDP login.
+  - Install and setup Atomic Red Team.
    - Performed Invoke-AtomicTest based on MITRE ATT&CK framework; 
      - Persistence > Create account (T1136.001)
      - Command and scripting interpreter > PowerShell (T1059.001)
 
-- Attack Machine
-  - Using Kali Linux, performed brute force attack using crowbar.
+- Kali Linux
+  - Performed brute force attack using crowbar.
 
 - Should have set up safeguards
   - Follow Company's Acceptable Use Policy.
