@@ -53,102 +53,102 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/dojFuld.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/dojFuld.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Splunk Server reachability.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/GPotYqu.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/GPotYqu.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Windows Active Directory IP Address.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/dyB5kNl.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/dyB5kNl.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Windows Active Directory reachability.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/XsJS2FY.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/XsJS2FY.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Windows 10 workstation's IP Address and reachability.</b>
 <br/>
 
 - Generate traffic
 <p align="center">
-<img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/66kVQSi.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Attacker's machine in a failed RDP login attempt to Windows 10 workstation.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/sdEiePr.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/sdEiePr.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Attacker's machine in a successful RDP login attempt to Windows 10 workstation.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/O5zdAEo.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/O5zdAEo.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Windows 10 workstation simulating the Atomic Red Team technique id T1136.001. Which map back to MITRE ATT&CK framework, Persistence>Create Local Account.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/hC7yL2e.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/hC7yL2e.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Windows 10 workstation simulating the Atomic Red Team technique id T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell.</b>
 <br/>
 
 - SIEM's log ingestion and analysis
 <p align="center">
-<img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/yJS9mWp.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Splunk Event Code 4625. Failed RDP login attempt.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/e9gRIKb.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/e9gRIKb.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/Z0jkymB.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/Z0jkymB.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Splunk Event Code 4624. Successful RDP login attempt.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/kJGXoj4.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/kJGXoj4.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/qH6dgTv.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/qH6dgTv.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/2rxwYU5.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/2rxwYU5.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/R7EEJrr.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/R7EEJrr.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/2XE3vHA.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/2XE3vHA.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/lhVp402.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/lhVp402.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Splunk on T1136.001. Which map back to MITRE ATT&CK framework, Persistence>Create Local Account.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/VZ8TLS3.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/VZ8TLS3.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/gMMiZfi.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/gMMiZfi.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Splunk on T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell.</b>
 <br/>
 
 - Wireshark capture of RDP login attempts on Windows 10 workstation
 <p align="center">
-<img src="https://imgur.com/40okXRH.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/40okXRH.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Imported the captured pcap file of RDP brute force activity to Wireshark.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/boxgZA0.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/boxgZA0.png" height="50%" width="50%" alt="Device Specification"/>
 <br/>
 <b>Analyze connectivity Duration between Client & Host. Noticed the duration tab, it takes 0.2 seconds on each succeeding attempts, which a clear indication of a brute force activity.</b>
 <br/>
