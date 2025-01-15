@@ -91,13 +91,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/O5zdAEo.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/d6O9tOF.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Windows 10 workstation simulating the Atomic Red Team technique id T1136.001. Which map back to MITRE ATT&CK framework, Persistence>Create Local Account.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/hC7yL2e.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/N2m8bdC.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Windows 10 workstation simulating the Atomic Red Team technique id T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell.</b>
 <br/>
@@ -112,7 +112,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/e9gRIKb.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/Z0jkymB.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/0VOpWuE.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Splunk Event Code 4624. Successful RDP login attempt.</b>
 <br/>
