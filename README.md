@@ -12,10 +12,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic from a .pcap file.
-- Telemetry generation tools (Atomic Red Team) to create realistic network traffic and attack scenarios.
-- Penetration testing tool (Kali Linux) to perform RDP attack on a Windows machine.
+- Splunk Enterprise SIEM: For log ingestion, analysis and timeline filtering.
+- Ubuntu 22.04 LTS: Used to host the Splunk Enterprise SIEM.
+- Windows Server 2022 Eval: Serve as an Active Directory.
+- Windows 10 Eval: End-user workstation.
+- Wireshark: Network analysis tool for capturing and examining network traffic from a .pcap file.
+- Atomic Red Team: Telemetry generation tool to create realistic network traffic and attack scenarios.
+- Kali Linux: Penetration testing tool to perform RDP attack on a Windows machine.
 
 ## Lab Information
 
@@ -159,13 +162,11 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Ubuntu 22.04 LTS
   - Installed and configured Splunk Enterprise Eval.
   - Performed basic Splunk search queries.
-
 - Windows Server 2022 Eval
   - Installed, configured and promoted as Domain Controller.
   - Created domain user accounts.
   - Installed and applied custom configuration to Splunk (inputs.conf) and Sysmon (sysmonconfig.xml).
-
-- Windows 10 Pro Eval
+- Windows 10 Eval
   - Installed and applied custom configuration to Splunk(inputs.conf) and Sysmon (sysmonconfig.xml).
   - Joined the Domain.
   - Domain user account logged-in.
@@ -174,10 +175,8 @@ In this Detection Lab project was designed to create a controlled setting for si
    - Performed Invoke-AtomicTest based on MITRE ATT&CK framework; 
      - Persistence > Create account (T1136.001)
      - Command and scripting interpreter > PowerShell (T1059.001)
-
 - Kali Linux
   - Performed brute force attack.
-
 - Should have set up safeguards
   - Follow Company's Acceptable Use Policy.
   - Disable any unnecessary services, such as the Remote Desktop feature in this case.
@@ -190,7 +189,10 @@ In this Detection Lab project was designed to create a controlled setting for si
 This project combines ideas and methods from various sources, such as the Splunk Inputs.conf by MyDFIR, Sysmon config by Olaf Hartong, and my personal experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
  - [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
- - [Splunk](https://www.splunk.com)
+ - [Splunk Enterprise](https://www.splunk.com/en_us/products/splunk-enterprise.html)
+ - [Ubuntu 22.04 LTS]()
+ - [Windows Server 2022 Eval]()
+ - [Windows 10 Eval]()
  - [Kali Linux](https://www.kali.org/)
  - [Atomic Red Team](https://www.atomicredteam.io/)
  - [Wireshark](https://www.wireshark.org/)
