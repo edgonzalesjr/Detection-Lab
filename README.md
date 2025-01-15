@@ -47,7 +47,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 ## Practical Exercises
 
 <p align="center">
-<img src="https://imgur.com/HDXm454.png" height="50%" width="50%" alt="Device Specification"/>
+<img src="https://imgur.com/HDXm454.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Splunk Server IP Address and status is running.</b>
 <br/>
