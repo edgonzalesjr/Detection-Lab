@@ -69,32 +69,32 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/XsJS2FY.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows workstation's IP Address and reachability.</b>
+<b>Windows 10 workstation's IP Address and reachability.</b>
 <br/>
 
 - Generate traffic
 <p align="center">
 <img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine in a failed RDP login attempt to Windows workstation.</b>
+<b>Attacker's machine in a failed RDP login attempt to Windows 10 workstation.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/sdEiePr.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine in a successful RDP login attempt to Windows workstation.</b>
+<b>Attacker's machine in a successful RDP login attempt to Windows 10 workstation.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/O5zdAEo.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows workstation simulating the Atomic Red Team technique id T1136.001. Which map back to MITRE ATT&CK framework, Persistence>Create Local Account.</b>
+<b>Windows 10 workstation simulating the Atomic Red Team technique id T1136.001. Which map back to MITRE ATT&CK framework, Persistence>Create Local Account.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/hC7yL2e.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows workstation simulating the Atomic Red Team technique id T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell.</b>
+<b>Windows 10 workstation simulating the Atomic Red Team technique id T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell.</b>
 <br/>
 
 - SIEM's log ingestion and analysis
