@@ -76,13 +76,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 <p align="center">
 <img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine in a failed RDP login attempt.</b>
+<b>Attacker's machine in a failed RDP login attempt to Windows workstation.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/sdEiePr.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine in a successful RDP login attempt.</b>
+<b>Attacker's machine in a successful RDP login attempt to Windows workstation.</b>
 <br/>
 
 <p align="center">
