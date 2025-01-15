@@ -60,13 +60,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/GPotYqu.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/JXDn4E4.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Windows Active Directory IP Address.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/dyB5kNl.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/LmgW0Nw.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Windows Active Directory reachability.</b>
 <br/>
