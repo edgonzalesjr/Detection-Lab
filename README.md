@@ -44,7 +44,8 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Kali Linux
   - Simulates as attacker's machine
 
-- Checking network connectivity on hosts
+## Practical Exercises
+
 <p align="center">
 <img src="https://imgur.com/HDXm454.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
