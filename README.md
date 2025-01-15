@@ -19,6 +19,8 @@ In this Detection Lab project was designed to create a controlled setting for si
 - Wireshark: Network analysis tool for capturing and examining network traffic from a .pcap file.
 - Atomic Red Team: Telemetry generation tool to create realistic network traffic and attack scenarios.
 - Kali Linux: Penetration testing tool to perform RDP attack on a Windows machine.
+- Sysmon: Track and record system activity in the Windows event log.
+- Splunk Universal Forwarder: Securely collect data from remote sources and send it to Splunk Enterprise SIEM for indexing.
 
 ## Lab Information
 
@@ -197,6 +199,7 @@ This project combines ideas and methods from various sources, such as the Splunk
  - [Atomic Red Team](https://www.atomicredteam.io/)
  - [Wireshark](https://www.wireshark.org/)
  - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+ - [Splunk Universal Forwarder](https://www.splunk.com/en_us/blog/learn/splunk-universal-forwarder.html)
 
 ## Disclaimer
 
