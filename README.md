@@ -118,9 +118,9 @@ In this Detection Lab project was designed to create a controlled setting for si
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/kJGXoj4.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/iNBP8t2.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
-<img src="https://imgur.com/qH6dgTv.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/xTam4CQ.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <img src="https://imgur.com/2rxwYU5.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
