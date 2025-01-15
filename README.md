@@ -47,13 +47,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 ## Practical Exercises
 
 <p align="center">
-<img src="https://imgur.com/HDXm454.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/t77IAZA.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Splunk Server IP Address and status is running.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/dojFuld.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/sy3f32C.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Splunk Server reachability.</b>
 <br/>
@@ -78,13 +78,13 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 - Generate traffic
 <p align="center">
-<img src="https://imgur.com/66kVQSi.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/0LxxDQ7.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Attacker's machine in a failed RDP login attempt to Windows 10 workstation.</b>
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/sdEiePr.png" height="60%" width="60%" alt="Device Specification"/>
+<img src="https://imgur.com/Q3ixtbn.png" height="60%" width="60%" alt="Device Specification"/>
 <br/>
 <b>Attacker's machine in a successful RDP login attempt to Windows 10 workstation.</b>
 <br/>
@@ -175,7 +175,7 @@ In this Detection Lab project was designed to create a controlled setting for si
      - Command and scripting interpreter > PowerShell (T1059.001)
 
 - Kali Linux
-  - Performed brute force attack using crowbar.
+  - Performed brute force attack.
 
 - Should have set up safeguards
   - Follow Company's Acceptable Use Policy.
