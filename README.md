@@ -182,6 +182,7 @@ These resources provided the fundamental information and techniques, which were 
  - [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
  - [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
  - [Splunk](https://www.splunk.com)
+ - [Atomic Red Team](https://www.atomicredteam.io/)
  - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
 
