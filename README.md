@@ -4,8 +4,8 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
+- Basic comprehension of SIEM principles and real-world implementation.
+- Skill in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
 - Development of critical thinking and problem-solving skills in cybersecurity.
@@ -14,7 +14,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 - Splunk Enterprise SIEM: For log ingestion, analysis and timeline filtering.
 - Ubuntu Server: Use to host the Splunk Enterprise SIEM.
-- Windows Server 2022 Eval: Serve as an Active Directory.
+- Windows Server 2022 Eval: Act as an Active Directory service.
 - Windows 10 Eval: End-user workstation.
 - Wireshark: Network analysis tool for capturing and examining network traffic from a .pcap file.
 - Atomic Red Team: Telemetry generation tool to create realistic network traffic and attack scenarios.
