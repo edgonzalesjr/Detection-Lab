@@ -188,7 +188,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 ## Acknowledgements
 
-This project combines ideas and methods from various sources, such as the Splunk Inputs.conf by MyDFIR, Sysmon config by Olaf Hartong, and my personal experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+This project combines ideas and methods from various sources, such as the Splunk Inputs.conf by MyDFIR, Sysmon config by Olaf Hartong, along with my own experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
  - [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
  - [Splunk Enterprise](https://www.splunk.com/en_us/products/splunk-enterprise.html)
