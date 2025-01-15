@@ -38,8 +38,9 @@ In this Detection Lab project was designed to create a controlled setting for si
   - Splunk Universal Forwarder (Forwards Sysmon logs)
 - Windows 10 Eval
   - Simulates employee workstation
-  - Sysmon  
-  - Splunk Universal Forwarder (Forwards Sysmon logs)  
+  - Sysmon
+  - Splunk Universal Forwarder (Forwards Sysmon logs)
+
 
 - Checking network connectivity on hosts
 <p align="center">
@@ -136,7 +137,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 <b>Splunk on T1059.001. Which map back to MITRE ATT&CK framework, Execution>Command and Scripting Interpreter>Powershell.</b>
 <br/>
 
-- Wireshark's network capture
+- Wireshark capture of RDP login attempts on Windows 10 workstation
 <p align="center">
 <img src="https://imgur.com/40okXRH.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
