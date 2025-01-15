@@ -12,7 +12,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 ### Tools Used
 
-- Splunk Enterprise SIEM: For log ingestion, analysis and timeline filtering.
+- Splunk Enterprise SIEM Eval: For log ingestion, analysis and timeline filtering.
 - Ubuntu Server: Use to host the Splunk Enterprise SIEM.
 - Windows Server 2022 Eval: Act as an Active Directory service.
 - Windows 10 Eval: End-user workstation.
@@ -161,8 +161,8 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 ## Outcome
 
-- Ubuntu 22.04 LTS
-  - Installed and configured Splunk Enterprise Eval.
+- Ubuntu Server
+  - Installed and configured Splunk Enterprise SIEM Eval.
   - Performed basic Splunk search queries.
 - Windows Server 2022 Eval
   - Installed, configured and promoted as Domain Controller.
@@ -179,7 +179,7 @@ In this Detection Lab project was designed to create a controlled setting for si
      - Command and scripting interpreter > PowerShell (T1059.001)
 - Kali Linux
   - Performed brute force attack.
-- Should have set up safeguards
+- Safety measures should have been established
   - Follow Company's Acceptable Use Policy.
   - Disable any unnecessary services, such as the Remote Desktop feature in this case.
   - Use a long and complex password for Remote Desktop if it is required in your environment.
