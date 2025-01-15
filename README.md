@@ -193,6 +193,7 @@ This project combines ideas and methods from various sources, such as the Splunk
  - [Splunk](https://www.splunk.com)
  - [Kali Linux](https://www.kali.org/)
  - [Atomic Red Team](https://www.atomicredteam.io/)
+ - [Wireshark](https://www.wireshark.org/)
  - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
 ## Disclaimer
