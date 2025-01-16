@@ -1,6 +1,6 @@
 ## Objective
 
-In this Detection Lab project was designed to create a controlled setting for simulating and identifying cyber attacks. It's main objective was to process and analyze logs using a Security Information and Event Management (SIEM) system, generating test data to replicate real-world attack situations. This practical experience aimed to enhance knowledge of network security, attack patterns, and defensive measures.
+This Detection Lab project creates a controlled environment to simulate and identify cyber attacks. Its main goal is to use a Security Information and Event Management (SIEM) system to process and analyze logs. The project generates test data to mimic real-world attack scenarios. This hands-on experience helps improve knowledge of network security, attack patterns, and defensive strategies.
 
 ### Skills Learned
 
@@ -12,6 +12,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 ### Tools Used
 
+- VMWare Workstation: A Type 2 hypervisor runs on x64 Windows and Linux, allowing multiple virtual machines on one physical computer.
 - Splunk Enterprise SIEM Eval: For log ingestion, analysis and timeline filtering.
 - Ubuntu Server: Use to host the Splunk Enterprise SIEM.
 - Windows Server 2022 Eval: Act as an Active Directory service.
@@ -190,6 +191,7 @@ In this Detection Lab project was designed to create a controlled setting for si
 
 This project combines ideas and methods from various sources, such as the Splunk Inputs.conf by MyDFIR, Sysmon config by Olaf Hartong and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [MyDFIR](https://github.com/MyDFIR/Active-Directory-Project)
+ - [VMWare Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
  - [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
  - [Splunk Enterprise](https://www.splunk.com/en_us/products/splunk-enterprise.html)
  - [Ubuntu Server](https://ubuntu.com/download/server)
